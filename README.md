@@ -16,5 +16,3 @@ If you use PoKi in scientific work, please cite:
 
 Machine-readable citation metadata are available in [`CITATION.cff`](CITATION.cff).
 
-## Contact
-
