@@ -18,6 +18,3 @@ Machine-readable citation metadata are available in [`CITATION.cff`](CITATION.cf
 
 ## Contact
 
-For questions, collaboration, or information about PoKi:
-
-**poki.science@gmail.com**
